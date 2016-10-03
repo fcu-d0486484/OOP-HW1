@@ -1,4 +1,4 @@
-package fcu.iecs.opp.java;
+package fcu.iecs.oop.java;
 
 public class Hello {
 	public static void main(String[] args)
